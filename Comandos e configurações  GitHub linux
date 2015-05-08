@@ -1,0 +1,4 @@
+
+para dar permissão na pasta
+root@vitor-IS-1422:/home/vitor/CadastroAtletas# chmod 777 -R CadastroAtletas/
+
