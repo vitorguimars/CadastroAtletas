@@ -28,3 +28,5 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
+/Interface/EngII3/nbproject/private/
+/Interface/EngII3/build/
